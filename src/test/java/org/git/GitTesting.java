@@ -7,9 +7,9 @@ public class GitTesting {
 	@Test
 	private void add() {
 
-		System.out.println("Test4");
-		System.out.println("Test5");
-		System.out.println("Test7");
+		System.out.println("Next Test 8");
+		System.out.println("Next Test 9");
+		System.out.println("Next Test 10");
 	}
 
 }
